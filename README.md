@@ -6,6 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Brayan M. | Alejadra A. | Crystal F.
 Part of our CS173 Final Project Submission.
+WEBSITE: https://brayanmontiel1.github.io/ucr-class-ratings/
 
 ## Available Scripts
 
