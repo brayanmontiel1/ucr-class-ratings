@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Created By:
+
+Brayan M. | Alejadra A. | Crystal F.
+Part of our CS173 Final Project Submission.
+
 ## Available Scripts
 
 In the project directory, you can run:
