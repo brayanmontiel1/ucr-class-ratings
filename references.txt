@@ -1,0 +1,13 @@
+to run the js app with google cloud cmd:
+//GOOGLE_APPLICATION_CREDENTIALS='secretfilekey'.json node index.js
+
+DATA Corpus(source): UCR class difficulty website
+https://docs.google.com/spreadsheets/d/1qiy_Oi8aFiPmL4QSTR3zHe74kmvc6e_159L1mAUUlU0/edit#gid=0
+
+1. https://medium.com/geekculture/create-a-simple-search-component-in-react-js-using-react-hooks-710c1dfe8b58
+2. https://cloud.google.com/natural-language/docs/analyzing-sentiment
+3. https://cloud.google.com/natural-language/docs/basics#interpreting_sentiment_analysis_values
+4. https://medium.com/@rosssicherman/sentiment-analysis-with-google-clouds-natural-language-api-and-node-99d3b7ddd35 
+5. https://jsonformatter.curiousconcept.com/ 
+6. https://www.convertcsv.com/csv-to-json.htm
+7. https://dev.to/chandelieraxel/using-await-in-loop-cause-performance-issues-3amb

@@ -18903,8 +18903,6 @@ async function runner() {
   for (var i = 0; i < classData.length; i++) {
     var obj = classData[i].review;  //gets review txt from classData at i
     JSON.stringify(obj);  //concat. to string
-    //console.log(classData[i].ID + "\n");
-    //console.log(obj + "\n");
 
     const reviewTxt = {
       type: 'PLAIN_TEXT',
@@ -18920,7 +18918,6 @@ async function runner() {
     //update sentiment and magnitude scores for each entry
     classData[i].sentiment = sentiment.score;
     classData[i].magnitude = sentiment.magnitude;
-    //fs.writeFileSync('/Users/brayanmontiel/Documents/UCR/2022/WINTER_2022/CS173/Final Project/CS173_Project/database_files/UCR_class_difficulty_database_2.json', JSON.stringify(jsonData));
   } //for loop end
   console.log('End of loop');
 
